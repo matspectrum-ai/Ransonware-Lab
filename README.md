@@ -66,11 +66,6 @@ Saída:
 
 Arquivo original recuperado.
 
-📸 Evidências (pasta /images)
-
-1. antes_cripto.png – Conteúdo da pasta test_files antes.
-2. depois_cripto.png – Após encrypter.py (arquivos .encrypted).
-3. restaurado.png – Após decrypter.py (arquivos originais de volta).
 
 🧠 Análise técnica – por dentro do código
 
