@@ -1,7 +1,3 @@
-# Ransonware-Lab
-Ransonware-Lab projeto (Samara)
-
-
 
 # 💀 Ransomware Educacional em Python – AES-256-CBC
 
